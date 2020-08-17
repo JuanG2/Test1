@@ -1,0 +1,1 @@
+- Web que marque los lugares menos transitados y sus horarios (centros comerciales, parques, etc) para evitar aglomeraciones.
